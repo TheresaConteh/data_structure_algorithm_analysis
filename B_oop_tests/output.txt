@@ -1,0 +1,53 @@
+13
+-----
+16
+-----
+-10
+-----
+0.3
+-----
+0.3
+-----
+1
+-----
+10
+-----
+59.97
+-----
+99.99
+-----
+8
+-----
+2
+-----
+0.875
+-----
+3.1429
+-----
+0.6667
+-----
+2.01
+-----
+6.2832
+-----
+4
+-----
+16
+-----
+-4
+-----
+1
+-----
+Error: division by zero
+-----
+Error: mismatched parentheses
+-----
+Error: invalid number '1.2.3'
+-----
+Error: invalid character 'a'
+-----
+Error: malformed expression
+-----
+Error: malformed expression
+-----
+Error: division by zero
